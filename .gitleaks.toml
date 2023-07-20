@@ -1,0 +1,3 @@
+[regex]
+  # Example rules for detecting usernames and passwords in Groovy files
+  pattern = '(?i)(username|user|login|email|password|pass)\s*=\s*["\'].*["\']'
